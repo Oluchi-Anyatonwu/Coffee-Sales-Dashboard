@@ -1,5 +1,17 @@
 # Coffee-Sales-Dashboard
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Tools Used](#tools-used)
+- [Expected Deliverables](#expected-deliverables)
+- [Benefits](benefits#)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](data-analysis#)
+- [Results/Findings](#results/findings)
+- [Recommendations](#recommendations)
+
+
 Tools Used:
 - Microsoft Excel
 - Excel add-ins: Power Query, Power Pivot, Power View 
